@@ -5,8 +5,7 @@ Hello. Go to [Issues](https://github.com/CodingRedpanda/Ping-me/issues) and crea
 <h1><p align="center">⬇</p></h1>
 
 ![Example of an issue](https://user-images.githubusercontent.com/64909897/119878070-ba7ebe00-bef7-11eb-88a7-7f5b47a3c948.png)
-| What an issue looks like, and how it's made (if u dont already know) |
-|---|
+<h6><p align="center"><i>What an issue looks like, and how it's made (if u dont already know)</i></p></h6>
 
 its as ez as dat.
 
