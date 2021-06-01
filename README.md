@@ -12,8 +12,13 @@ its as ez as dat.
 
 ###### i will try to respond as fast as possible, but if i dont respond for a *while* then just wait pls (sometimes im blind and dont see it)
 
-# Update
-
 I added [discussions 😲](https://github.com/theiocoder/Ping-me/discussions) so you can do more things i guess ~~idk i just started using them, thought they might be useful~~, if you use issues ***DO NOT CLOSE THEM, I WILL***.
+
+
+
+# Update again
+
+If you want to become a collaborator (meaning you partly control this repo) then go to [the collaborator request discussion](https://github.com/theiocoder/Ping-me/discussions/6) and ask.
+
 
 ok, thats it for now, so bye.
