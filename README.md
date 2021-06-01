@@ -12,7 +12,7 @@ its as ez as dat.
 
 ###### i will try to respond as fast as possible, but if i dont respond for a *while* then just wait pls (sometimes im blind and dont see it)
 
-I added [discussions 😲](https://github.com/theiocoder/Ping-me/discussions) so you can do more things i guess ~~idk i just started using them, thought they might be useful~~, if you use issues ***DO NOT CLOSE THEM, I WILL***.
+I added [discussions 😲](https://github.com/theiocoder/Ping-me/discussions) so you can do more things i guess ~~idk i just started using them, thought they might be useful~~, if you use issues ***DO NOT CLOSE THEM, I WILL (unless ur collaborator)***.
 
 
 
