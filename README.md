@@ -16,8 +16,8 @@ I added [discussions 😲](https://github.com/theiocoder/Ping-me/discussions) so
 
 
 # Update again
-
+<!-- 
 If you want to become a collaborator (meaning you partly control this repo) then go to [the collaborator request discussion](https://github.com/theiocoder/Ping-me/discussions/6) and ask.
 
-
+ -->
 ok, thats it for now, so bye.
